@@ -1,0 +1,100 @@
+1 0 DOC: update github stats
+
+2 0 Merge remote-tracking branch 'matplotlib/v2.2.x'
+
+3 0 Merge pull request #11843 from QuLogic/no-nose
+
+4 0 Remove unnecessary use of nose.
+
+5 0 Merge pull request #11762 from ImportanceOfBeingErnest/minor-grid-overlap
+
+8 0 Merge pull request #11828 from fredrik-1/animation_warning
+
+10 0 adding show inheritance to autosummary template
+
+13 0 REL: v2.2.3
+
+14 0 DOC: update github-stats
+
+15 0 Merge pull request #11835 from meeseeksmachine/auto-backport-of-pr-11831-on-v2.2.x
+
+16 0 Backport PR #11831: animation api documentation changes
+
+23 0 func animation warning changes
+
+28 0 FIX: correct macro logic in file_compat.h
+
+32 0 DOC documented more of the gridspec options
+
+33 0 Merge pull request #11818 from tacaswell/merge_v2.2.x
+
+35 0 TST: pass force to `mpl.use`
+
+42 0 Merge remote-tracking branch 'matplotlib/v2.2.x'
+
+46 0 Lazy-init the OSX event loop.
+
+47 0 ENH: backend switching.
+
+50 0 TST: tweak add_artist_test to make svgs output clearer
+
+57 0 Merge pull request #11079 from ImportanceOfBeingErnest/resurrect-axesgrid1-doc
+
+58 0 Merge pull request #10595 from timhoffm/doc-figure
+
+59 0 Merge pull request #10968 from timhoffm/doc-contour
+
+60 0 Merge pull request #11090 from dstansby/contourset-doc
+
+61 0 Merge remote-tracking branch 'matplotlib/v2.2.2-doc' into v2.2.x
+
+64 0 ENH: backport cbook._setattr_cm
+
+66 0 Merge pull request #11580 from timhoffm/subplots
+
+67 0 Merge pull request #11407 from anntzer/step-markers
+
+69 0 Merge pull request #11312 from anntzer/rerefs
+
+70 0 Merge pull request #11262 from mdboom/optional-threading
+
+71 0 Merge pull request #11105 from anntzer/markerfacecolor-none-alpha
+
+73 0 Merge pull request #11071 from dstansby/hist-scaling
+
+74 0 Merge pull request #11047 from jklymak/fix-image-respect-norm-limits
+
+75 0 Merge pull request #9993 from anntzer/qtcompat
+
+78 0 TST: fix mac csd tolerance
+
+79 0 FIX: resolve conflict
+
+82 0 Merge pull request #11788 from timhoffm/fix-deprecation-locateableaxes
+
+83 0 update annotations
+
+84 0 updates error messages to run pytest instead of tests.py standalone
+
+85 0 Merge pull request #9993 from anntzer/qtcompat
+
+86 0 MNT: be more paranoid about importing sip
+
+87 0 typos in gridspec tutorial
+
+88 0 Update link to IBM's colormap selection paper
+
+93 0 Merge pull request #11786 from timhoffm/collections-abc
+
+94 0 Merge pull request #11755 from timhoffm/doc-savefig-metadata
+
+95 0 Fix DeprecationWarning on LocatableAxes
+
+96 0 Fix collections import warnings for Python 3.7
+
+97 0 Add description for metadata argument of savefig
+
+98 0 Add missing API changes
+
+99 0 Merge pull request #11703 from jklymak/fix-update-from-patches
+

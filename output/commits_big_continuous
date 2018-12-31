@@ -1,0 +1,28 @@
+17 1801 Merge pull request #11831 from fredrik-1/animation_api
+18 2198 Merge pull request #11834 from meeseeksmachine/auto-backport-of-pr-11824-on-v2.2.x
+19 1801 Merge pull request #11829 from fredrik-1/func_animation_warning
+20 2198 Backport PR #11824: facecolor stale missing
+21 1801 Merge pull request #11824 from fredrik-1/facecolor_stale
+
+52 2196 Merge pull request #11813 from tacaswell/backport_axes_grid_work
+53 1799 Merge pull request #11801 from fredrik-1/annotation_update
+54 2196 Merge pull request #11060 from ImportanceOfBeingErnest/fix-inset_axes
+55 1799 Merge pull request #11808 from eseiver/pytest
+56 2202 Merge pull request #10756 from AlexCav/iss-8120-bugfix
+
+  
+245 2086 Merge pull request #11662 from meeseeksmachine/auto-backport-of-pr-11660-on-v2.2.2-doc
+246 1700 Merge pull request #10954 from anntzer/share-dviread-caches
+247 2097 Backport PR #11660: DOC: tweak reviewer guidelines.
+248 1689 Merge pull request #11660 from tacaswell/doc_reviewer
+249 210 DOC: tweak reviewer guide a bit more
+250 203 Merge pull request #9150 from anntzer/rc-blacklist
+
+  
+263 317 SVG Backend gouraud_triangle correction
+264 1742 Merge pull request #11652 from meeseeksmachine/auto-backport-of-pr-11650-on-v2.2.2-doc
+265 1675 Merge pull request #11504 from anntzer/pgi
+266 2072 Backport PR #11650: Add CircleCI cache of user fonts.
+267 1675 Merge pull request #11650 from QuLogic/font-cache
+
+  

@@ -1,0 +1,501 @@
+df545a043386557f01fa75a1cd231b57688fa727 1141 REL: v3.0.0rc1
+296516cebad1dc0902a567875ec88da531fc5b53 0 DOC: update github stats
+6632940012952221082d68718a9281818547a8ca 0 Merge remote-tracking branch 'matplotlib/v2.2.x'
+6c020e885cb6cd8cc7aa56ccab8a7a08acb9bd57 0 Merge pull request #11843 from QuLogic/no-nose
+812427043932244ff9829c927ed958b535efbaa7 0 Remove unnecessary use of nose.
+4d1d12c39f4de38f6068ff118364e199b02efdcb 0 Merge pull request #11762 from ImportanceOfBeingErnest/minor-grid-overlap
+34794819d8cadc378ee71c611426281a082aac82 3 Merge pull request #11600 from anntzer/backend-switching-3
+f4ae5d1ccbfe93744a687d74695640570f36875e 20 Merge pull request #11833 from fredrik-1/autosummary_template
+b44aeca199fd9c9f34f859ab9da88c69f9b980eb 0 Merge pull request #11828 from fredrik-1/animation_warning
+1e0065583635bcc87402cc0e83d2081fd14c2af2 2 changed warning in animation
+2ce33dda13fd434f86575f00a0e90a6c264c638e 0 adding show inheritance to autosummary template
+97683a58a3b0e94604ccc6380770f07e15c9c27f 20 DOC: add whats new
+2ae3b7a7ba536d635136aa220482cd05926e7adf 2216 MNT: bump away from tag
+2e0eb748d3c1b808ed89e86e80a2d1565b4cd896 0 REL: v2.2.3
+3d15cd3e5adaa36a89b83e4cb0874110c56d9c44 0 DOC: update github-stats
+d241fd1872311f1b88a322f0a9dfcf5f420599cd 0 Merge pull request #11835 from meeseeksmachine/auto-backport-of-pr-11831-on-v2.2.x
+4fa7e1448273f26c57732b1a3d27e7b1bbce02f2 0 Backport PR #11831: animation api documentation changes
+cff3da2de4ccbac0ec11c08d9e3fa24db0e7703c 1801 Merge pull request #11831 from fredrik-1/animation_api
+0eb446f862e7e934eb1d63b2709c2d6617cc0632 2198 Merge pull request #11834 from meeseeksmachine/auto-backport-of-pr-11824-on-v2.2.x
+f61358a7ef33edee0c11a38e8a08794365ef249d 1801 Merge pull request #11829 from fredrik-1/func_animation_warning
+bfc39d19fb86a20355e518281e3557534ad3737d 2198 Backport PR #11824: facecolor stale missing
+b1df2833c9e91588376d23dc5244c27aa8bf485c 1801 Merge pull request #11824 from fredrik-1/facecolor_stale
+68fe66d02c2ad78f69eed99b75b541bc228b38cc 2 animation api changes
+b693532b863898c76b09419a26f72a5352ed3a41 0 func animation warning changes
+de3879ad0fd387900135336a64d21550d0475917 2196 Merge pull request #11827 from tacaswell/fix_minor_c_change
+cbf592801425ecb169e498d128437ba87b6aad7d 1801 Merge pull request #11826 from NelleV/gridspec_doc
+29dd9d42b330bfdd3eaf355d7402715c623d3aef 22 TST: put back wx and qt5cairo tests
+a10701f59de1b7d3181d6d25c97650a93245fe81 2216 Merge pull request #11817 from tacaswell/backport_py37_updates
+df75d0d693352b3eef1297b7d304f088be17f2f4 0 FIX: correct macro logic in file_compat.h
+1cd174e3a44d878baf5f0111b4dc1eac31571ca3 1801 Small edit to take into account height as well
+291041b72afc8d46d69c663de76af124cd3e3f64 2198 DOC: put py27 back into the docs
+b924709cadd6dfe56a11dd64b4d574843a926874 1801 DOC Better description of left, right, top, bottom
+b4529af2e7cd107563c6b016445b8a8436442259 0 DOC documented more of the gridspec options
+064e92c6696bb7fea50e75a96ae6414636df38f4 0 Merge pull request #11818 from tacaswell/merge_v2.2.x
+0ccc19e5a1ec900a06ae2193a47bc68584317a0b 22 TST: skip wx backend
+22508d8a455d48307665e4023acff5bb20b95485 0 TST: pass force to `mpl.use`
+aee1772e1ae91ff9ef4c59bb3e2a154936c16546 22 Merge pull request #11821 from ImportanceOfBeingErnest/doc-removemulticolumn
+7ccf9c7f8ef5d723a9bb108c64e6e42dcbf171b0 2 added stale to axes facecolor
+e7dab18f7aa181b4271f3b416276e6f2ac23a219 2 remove multicolumns from examples
+fe6ee82db22923e59066ab6c05aaf2102d49db83 2 Merge pull request #11819 from tacaswell/doc_minor_fix
+4f45346202bf5004aca8dd8751aeebeb6af16c8b 2196 TST: tweak an svg file
+d5087b2990f9f70b8889f049a998b88fe743edbd 1799 DOC: fix minor typo in figure example
+ab6f821983941e51fd591413f296d49e03af4ff1 0 Merge remote-tracking branch 'matplotlib/v2.2.x'
+292fb8683ab789c86b9db88a02b719f01f7e07c2 2196 Merge pull request #11533 from tacaswell/update_for_py37
+0e95b73c7ee32601502c6b8291839c849444ab49 1799 Merge pull request #11533 from tacaswell/update_for_py37
+d5576e22a8e5702706313dbd707659a3de3f4b5a 20 Don't fail Qt tests if bindings not installed.
+ec77ca215b2f306a9fa38e58b57587d7803015cf 0 Lazy-init the OSX event loop.
+56acb0f691f3447f7f15b257b164e0bc431760eb 0 ENH: backend switching.
+c4339326a6cec2d94cba2baa64bde4622513e782 20 Merge pull request #11722 from anntzer/setup.py
+a95ddd6e864113455d7b6400e54639ff048bc8f0 15 TST: skip svg tests for now
+697c51920451e03facbd77197ff2d7a9b0ae0334 0 TST: tweak add_artist_test to make svgs output clearer
+108501c2299f1f71340b71c5d03fee21d21d963b 15 Merge pull request #11802 from fredrik-1/gridspec_tutorial
+00daa8f33ff77eaa7b601a4a2c9c3b7a9016fce6 2196 Merge pull request #11813 from tacaswell/backport_axes_grid_work
+5ecbc394d9ec0a9beac345586dabe4a5f20fd6ce 1799 Merge pull request #11801 from fredrik-1/annotation_update
+55bab51c4b43d50ea6fc52cb752877a6df618ce2 2196 Merge pull request #11060 from ImportanceOfBeingErnest/fix-inset_axes
+70e7850c7676faced2e3ff6641df14bdf69dc22e 1799 Merge pull request #11808 from eseiver/pytest
+d9258d33adbd0e77332c051bbf829a15d69a5003 2202 Merge pull request #10756 from AlexCav/iss-8120-bugfix
+7a25941fe34624d7ca115eda7372d08e1919f05b 0 Merge pull request #11079 from ImportanceOfBeingErnest/resurrect-axesgrid1-doc
+db87e100a615210efeec9ea1dd11d67dc4ce4ce6 0 Merge pull request #10595 from timhoffm/doc-figure
+36db03ab35295cbee4688cf502b85e0fa8884f7a 0 Merge pull request #10968 from timhoffm/doc-contour
+9fd28b2a06106f5a5b353d78b30f2619599889fc 0 Merge pull request #11090 from dstansby/contourset-doc
+78258c1c30bf5d1dfb36eb39860a773d0ef2e432 0 Merge remote-tracking branch 'matplotlib/v2.2.2-doc' into v2.2.x
+9b61044d38fb243462c3fcb1f89b502bd6c46d6d 1809 MNT: remove extraneous 10
+27039507bd12c42f715a35f9476d446234455d62 2206 Merge pull request #11812 from tacaswell/final_backports
+42bd99abbcf97ed20ffcb19640d783a252875bd2 0 ENH: backport cbook._setattr_cm
+648a04e871122f815fde8bf6dba501cdc5248940 3 Merge pull request #11588 from jklymak/doc-warn-if-CL-plus-TL
+86a3bace3693bccdf741c9d2c5ccc500e799e453 0 Merge pull request #11580 from timhoffm/subplots
+6133a7d5c563568238eb9e0a958367dba88d7046 0 Merge pull request #11407 from anntzer/step-markers
+fa5b1e1e8e4dbda3aea02b82351bb09707a3a7c8 2 Merge pull request #11336 from timhoffm/raw-strings-for-docstrings-with-escape
+e5ce40b858c32aa2419598113c2692110babfc72 0 Merge pull request #11312 from anntzer/rerefs
+758bfca3917b82817d700290a7a3cefaad520937 0 Merge pull request #11262 from mdboom/optional-threading
+393c862f12fa14b853b66040b59e5dc111d97c5d 0 Merge pull request #11105 from anntzer/markerfacecolor-none-alpha
+278ee470f542d0986f086545dad041afb0553420 2 Merge pull request #10833 from anntzer/marker-antialiasing
+636a06d154eb3fc15ab974410e93543f59927efc 0 Merge pull request #11071 from dstansby/hist-scaling
+faf9684bbd1ec2a7cca7251f2d4c93382eedf6a4 0 Merge pull request #11047 from jklymak/fix-image-respect-norm-limits
+eb489f65cdd19857d8d7d4eee4a10cce22e1f713 0 Merge pull request #9993 from anntzer/qtcompat
+9f0325e10f72a9262ecf9eaf9609bbc54813fb20 1812 DOC removed all mentions of tests.py
+f822dba065f9fcf5d9373a2f2a54e5f2ef337acf 2209 Merge pull request #11811 from jklymak/backport-cl-overflow
+409c023e78fa40c627bcf1397108876999a8feb5 0 TST: fix mac csd tolerance
+085bbd7646fed9038273433f432bf994a5d3a682 0 FIX: resolve conflict
+e010538e21ebb30d8922f80fd154711fbc1f8a33 1815 Merge pull request #11734 from anntzer/aggcleanup
+c660b3351281f5a14493fb481d899b44671b46ea 3 Merge pull request #11785 from timhoffm/api-changes
+621e3427aa12df52ed12d8880860c21f55042d4a 0 Merge pull request #11788 from timhoffm/fix-deprecation-locateableaxes
+50442c818d2a0e87279ce620ae5b841db0d692c7 0 update annotations
+8bbc6dd9441d03f63ea5bd1effe8e0832130298f 0 updates error messages to run pytest instead of tests.py standalone
+f677f360aa157668b14a501fbc2f9908fe8e37e9 0 Merge pull request #9993 from anntzer/qtcompat
+1a7d56df0312c33704be703e7ea4070e5d54cd91 0 MNT: be more paranoid about importing sip
+5f3449d74419798a02e86f320944e087cdab1c6e 0 typos in gridspec tutorial
+ea9ecf4b35290aabac7ef9a4efa82f2637c573d0 0 Update link to IBM's colormap selection paper
+a16c0652fb6f4938a559cee047d4872ba4a849e6 2 avoid warning in savefig
+31a8093a69fae98dc70d90df609bb6cbe62ced06 2 Added xkcd Style for Markers (plot only) (#11558)
+07f5682168a90e65f8b4279ea728dd7899c96b38 122 fix minor grid overlapping
+b8071e032d0e87b6200c12ed2c803b6bee5733af 122 Rewrite and greatly simplify qt_compat.py.
+6c9c844b7f4ef7b70a232c2e481061102dd5d928 0 Merge pull request #11786 from timhoffm/collections-abc
+e66de9c637b133dd0aa52bf92ff7a688707134ed 0 Merge pull request #11755 from timhoffm/doc-savefig-metadata
+149fdc4b3bdf0ea9023cfa917c7eb3372ab27271 0 Fix DeprecationWarning on LocatableAxes
+8810b5e93e1b8323268e4b4cfdc7479cdda273fe 0 Fix collections import warnings for Python 3.7
+d6c3885c9eb06d79613da0a055639d222fdfe65e 0 Add description for metadata argument of savefig
+b0f190a1092a25d796ce3d6f6a762617e8fa23fd 0 Add missing API changes
+c552bdc116ad518d988461a28a2dd43ca342f2ee 0 Merge pull request #11703 from jklymak/fix-update-from-patches
+068ddb3e642636d8ad0ae1c6ede4e5f843fc5e76 0 Merge pull request #11765 from jklymak/doc-reorder-examples
+a373dc3d1a4bede2803f02ca4d82336cc19da9e4 0 Merge pull request #11724 from anntzer/fix-cairo-image
+0887e2ab8f65e890bf9409c05f096ab245fae544 1 Merge pull request #11726 from anntzer/canvasagg-examples
+ad7cedaea7f7157fa53a452b2e73dbf9166041ec 0 DOC: re-roder examples and set heading levels
+cb47f2dbcff75d6bef09aecab6cfa219c00d6579 0 Merge pull request #11754 from jklymak/fix-update-spine-positions-before-getting-extents
+3020c2159bde922398029829d8cd207a54f33845 2 Merge pull request #11779 from anntzer/frame_size_cannot_vary
+1e4d6e1ea7e8b31a8f08b2f1ca10bbe7d8f1b3d9 0 Merge pull request #11770 from tlevine/typos
+e40a9efb2dba3af63f3ac36e289a7c8d3072be69 0 Remove unused attribute in tests.
+571482651a1586624f6928c4987b224016ecdcd4 0 Merge pull request #11778 from anntzer/unpin-pandas
+824ac7490c5944c99b3fb1091bb2b63853cac086 2 Unpin pandas in the CI.
+1920dcff9d0295e38da65ffb298a1cfd2a4df5ad 2 active phrasing
+e9dcf5be74773f6018b653a5b03d4744d68ff5e6 0 use a colon
+fbc4f4cfc203cdbbfdb7e94d9e1770a084c2c27d 0 Merge pull request #11772 from AllenDowney/AllenDowney-patch-1
+17b9ee278aa029f06e365c5409437a2cac358a8c 0 Update api_changes.rst
+5b8a5211b21aedaa0be795f246de044e49bbe6a8 0 Update animation_api.rst
+cc5c1bc14df88e49584f888c9f7b25cd273b5d40 0 Clarifying an error message
+1fc18be2d3df132c7fefa591ee387f8b057cdca0 0 Merge pull request #11760 from timhoffm/doc-grid
+641441c06a07aa80adc4908a109a51fbc31e2254 0 correct typos in documentation
+e36fe9ac576f0122a30f59777c9c668fa7f7eb45 0 Merge pull request #11705 from anntzer/warningslesstests
+42f07d928d5e200ec5a1614d0920f6ca9064198b 2 Merge pull request #11767 from dstansby/csd-osx
+c0c9df1bf06b32e466a0ef61e3d8d6fccd5e735c 0 Add tolerance to csd frequency test
+5545050ff6ceb1b59d7e46401a9fc56ddf044704 21 TST: add test for spine positions behaving after a zoom
+bf989934aa40b5643918a3c86fd8fd1b12adb6bd 0 Rollback constrained_layout not working under ZOOM/PAN
+ae9f8e5a88676799e8e4c392c5be70541661adff 0 fix-update-spine-positions-before-getting-extents
+cf38546d06e53e640215fdba1105ba8e5fd5d3b8 21 Merge pull request #11733 from andyfaff/collection
+4fdb061238c2bcbad2a3de496a90f020dafee444 9 PEP8
+68690fcac21ec8a3a58f0e8b2c73fa1a8ed7c4b2 9 Merge pull request #11757 from stilley2/master
+eccfed258704d33ccc81ff6f7a91b6f9368dacad 0 Switch grid documentation to numpydoc style
+3d290803ee373ecd8da92948209e6e6ac7c8384e 9 MAINT: collections.abc imports
+27cf3a072cab15e2cec05a51809b50d68015a3d3 9 clarify potential pitfall to pgf black text fix
+e9feb7c49e287ac8535a161d9b170a642d259e77 0 Merge pull request #11751 from anntzer/setupext-verbose
+c9a8edb31bfabb4a98e2bacb4ee828395201b0d7 78 Suppress/fix some test warnings.
+8f86799025fbcc0dd8fd4f4067f7cb0202164e4d 78 Document pgf black text change
+58b24e00351dea4c9d813ce6cc86aa9ecc5d918e 0 PGF backend output text color even if black
+991f996b01246449c43e514a9df5fd58124d63f0 0 Merge pull request #9084 from anntzer/boundmethodproxy-like-weakmethod
+4b28fdb0118c9ff25cb5af2eb65861350f8f706f 6 Merge pull request #11752 from timhoffm/fix-whats-new-sectioning
+6edc7a85ce1ac65fadf364723dbaf5d7399447c0 0 Merge pull request #10513 from anntzer/fsencodedecode
+27e9a4cb8d555eaaaaa636b0584064554f9912aa 15 FIX: update spine positions before gett extents
+08b95d7b5581d8ceba6f4eb6c932664a8320d589 14 Remove the unused 'verbose' option from setupext.
+324a8afd337faffcacb3a39c950155dd863c4638 0 Merge pull request #11744 from leejjoon/axesgrid1-inset-axes-doc-update
+81df9c34198b16ed9796e2b7f1ec74dbf027374a 0 Fix section level of Previous Whats New
+0029e1f7f0078765ffa1a48fa3c2c08e63b4ab96 0 minor doc update on axes_grid1's inset_axes
+31a6682c86d79f897bb6ec3b13cdd10415c3b868 2 Deprecate support for 3rd-party backends without set_hatch_color.
+e981876a1291f990a9f5170966a5c0adc91edb41 1 Replace most uses of getfilesystemencoding by os.fs{en,de}code.
+885e634aacd669414c24068381ae0ae7cb42004e 3 TST: regenerate a svg image
+8df717657e8e61dbc7e9a6cbd7d89373e43c5f82 0 DOC: tweak a few references to python versions
+7a5af736bd0502e5e1ca816a94c79f8497816f8d 0 BLD: add 3.7 to classifiers
+3fad061220e5d1dc14e280f87dc93d154eeba0cd 0 CI: re-jigger test matrix to include 3.7
+d9240e24b50c2604fe72cd8a3ce3a4e415726f31 0 Merge pull request #11729 from anntzer/pyqt4-pyside2-fix
+be5f8ccd59f6effbe8d05b9a4222e2f7c1de6bce 2 Merge pull request #11736 from anntzer/unusedmarker
+f84e88d67500d157346597d00b6ee90caa19972d 0 Remove unused needs_sphinx marker; move importorskip to toplevel.
+944c36870984aaf5914eb703500199f4fcc43e71 3 Small cleanups to backend_agg.
+e3e7ed64f23f29e239adb1aa1d2e1a85642d746f 3 MAINT: use collections.abc for 3.7
+23420a4c18ccb3cd8b3f2fbd89340b30d53e5cdf 0 Merge pull request #11731 from anntzer/qt-buffer-off-by-one
+c624d57611c214d90c4bffa06e4fe7e41a7c937b 0 Directly get the size of the renderer buffer from the renderer.
+0e487fdeb514efa4d50412d0070cf00c0335c816 2 Pass 'figure' as kwarg to FigureCanvasQt5Agg super __init__.
+38476fd23e5131c11713034ce0e1ad7bd86f2f6a 2 Merge pull request #11717 from jklymak/doc-fix-broken-link-il
+3448de363d66d448e853218421f2763bb3508730 0 Merge pull request #11723 from anntzer/picklablecmaps
+564e478087955f2a421d43fedf98302ef0922dd6 25 Start work on making colormaps picklable.
+870f8515821268df33e442a4ebd75565de322de2 33 Consolidate agg-buffer examples.
+fde8971aa04b4fc41ee5775a1b4573473350a0e3 1 Fix cairo's image inversion and alpha misapplication.
+66a6d70bdc60e2f9f78429b3d3414440ab50c653 1 Merge pull request #11721 from anntzer/colorConverter
+b741534dd397b352adfbfe6a2b76ce62fec36ea8 23 Remove some references to colorConverter.
+dec1c0e23e6d8f0b58330c8d7149dfe2ac652837 25 DOC: fix broken link in inset-locator example
+4bc1ca956c2ab3b573fab102c689d5b189f24472 0 Merge pull request #11713 from anntzer/nbaggtestcwd
+1ec9c91370a2200f6af05aa685189d69a3fb6095 23 Remove unnecessary hacks from setup.py.
+bc39b1c4a61b62cd42681bbe85c67fcf9666a3ba 23 Merge pull request #11026 from jklymak/enh-axes-add-axes
+d23ebc962524e18b0a753169713077fac8546ae6 23 Merge pull request #11712 from anntzer/retinaqt
+0766e5365cff4073480120ec37226c5c2de40e02 0 Merge pull request #11714 from fredrik-1/doc_Figure_tight_layout
+d14f3d1297661244cbb9f3c0c8ece74186c220a6 52 doc_Figure_tight_layout
+b650c6715135d93a683715d06e47bb448d0b9390 52 Don't assume cwd in test_ipynb.
+3e3b538ea2af34a8852746942f8db632a392200d 0 Fix drawing on qt+retina.
+a5b27e99f9d5aae47e9b62da4061e33cc93080d9 75 ENH: add an inset_axes to the axes class
+4b1f956cbe5f6cffcd73102ce4528b31e238e371 75 Merge pull request #8951 from anntzer/qtagg-blitting
+ac58f1f9254d8a3f5cc95bf67b38ae1bf2131c1a 26 Merge pull request #11234 from ImportanceOfBeingErnest/fig-add-artist
+d5a77cf411a9af3274928fc7b5dcb8ada5227456 2154 Merge pull request #11707 from meeseeksmachine/auto-backport-of-pr-11677-on-v2.2.2-doc
+3a957bd4fda0aa89d96101391f996e1fd461dcf7 0 Backport PR #11677: DOC : Improves Documentation for stem_plot.py
+b8838c3354d6f73a7f88c4b95e9e8f6785c44e05 1747 Merge pull request #11677 from gabru-md/gabru-md/patch
+556cdce17db9dcf8192ed9e64876ddf8eab72ad3 0 Merge pull request #11706 from anntzer/remove-dead-code
+b9e647f20355a7c8b1d0c2175ec190609556619a 2 Improves Documentation for stem_plot.py
+62af1060ad286261da2d3ff0ef285f006080648c 2 Remove unused private method.
+9382a0569287ca6de5bb1ec8c83debf42f85c12e 2 Merge pull request #11637 from dstansby/api-split
+2eb26ee356d908f5eb31282e077c264ff759be76 0 Merge pull request #10403 from QuLogic/deprecate-locatable-axes
+16fee16ebf0f7517484e85a01f27e0d3af2ba44b 78 Removed extra 2.2.0 Header
+af43dae448d5938403ef4bb699cc74e22d051ca0 65 TST: test that setting alpha keeps rest of color ok
+6bf26c65a0ba8a26692613bc6ba563c7d15be752 2114 Merge remote-tracking branch 'matplotlib/v2.2.2-doc' into v2.2.x
+c28818a887e8e4fdd9b0ec504cd3ad412c63139c 1717 FIX: make update-from also set the original face/edgecoloe
+d91aa31f24b104fb373c17f40997c8d4c3274e69 2116 Merge pull request #11697 from meeseeksmachine/auto-backport-of-pr-11694-on-v2.2.x
+691fb7f9e6d14a3e87268233cc102b4291dbf614 1719 Merge pull request #11699 from anntzer/overindentedrst
+3b0c96a2765ddb0d4356e33d5a6a86a9981e15ef 0 Merge pull request #11701 from anntzer/skipif
+2f1608dcf790503fbcd9cdbe0447adf2a9ac7484 0 Merge pull request #11700 from anntzer/pytest-rw
+7421b0e3944e8f52bac764c3f8484112725384b2 14 DOC: Add deprecation changelog for LocatableAxes stuff.
+e041adcb4a3e65e87799386048e5dc3b45df132a 0 Deprecate any LocatableAxes in toolkits.
+947ebe9750314d186e02aaaf7c76c42fd8c6cebf 0 Deprecate locatable_axes_factory and make it a no-op.
+15d9b8eecf2d39f185c3338d23dcacca6abf6c2c 0 Deprecate LocatableAxesBase and make it a no-op.
+ff6139c84bbba5b9cb6ed035b94f1390364fca3d 12 Remove cross-references to axes_grid.
+fa8f1aa4a5fda44eab2fef3ab5ddb5a14e31d213 2 Use skipif instead of xfail when test dependencies are missing.
+eee91122d956c258b74f76559f72b1514f30d52c 0 Remove old ChangeLog from axes_grid.
+209a6907d474b7580231fcbee4fb3e5ccabdb999 0 Don't use pytest -rw now that pytest-warnings is builtin.
+1966f97216b01d9cb66ef5df10e61e17767bc86b 0 Dedent overindented rst bullet lists.
+de28b4d5e517127ce201c51795038323d33f1efe 56 For property, use decorator or lambdas.
+e3d2166cfe5272aff2c89d30e18327c04a7835d3 2172 Backport PR #11694: moving toolmanager initialization up before toolbar
+8f50633bc5187189b4ae3b27c397acef11354457 1719 Merge pull request #11694 from matplotlib/toolmanager-before-toolbar-tk
+3a046ef5bf98026d2839d6812000ab4b1ccbc9b1 0 Merge pull request #11696 from anntzer/toolmanager-example
+0367572abc2c7dc0a8d91b36eed7db2629a92f23 0 Don't force backend in toolmanager example.
+5a110ea81db68adf45e9cbd1c75de49b9d2b61f4 0 moving toolmanager initialization up before toolbar
+3b337c9d6ef65f103346a0cf2a07626076d4b6ad 0 Merge pull request #11690 from anntzer/privatelessexamples
+8a261ea561164001f605f8271a2d277a6cd63665 0 Merge pull request #11687 from anntzer/venvdocs
+929bffbad692d5c7fb34b87899f66d87a1fd21de 10 Don't draw axis (spines, ticks, labels) twice when using parasite axes.
+efafd31f252c01592c2ecbe761b5a9e5c6885a74 10 Avoid using private APIs in examples.
+b19ab83150915897747a1d8aae94d80338940496 0 Don't cache the renderer on the Axes instance.
+541503004d528b74004a5bf4e2081cdd773130fe 0 Update venv docs.
+b78f64fd9a3de7af17960e37b49d912f0a44a478 2128 Merge pull request #11686 from meeseeksmachine/auto-backport-of-pr-11685-on-v2.2.2-doc
+4769f7bf3ab050d1fea3119febca55730d6c384d 1731 Merge pull request #11684 from anntzer/style
+4aaddcfe97fcfa73c25bb23480d30b406cd7ba85 2128 Backport PR #11685: DOC: link brokenaxes package in third part
+f6e2723e830f5538bd2a7d5f7633fb684a87322e 1731 Merge pull request #11685 from jklymak/doc-add-link-brokenaxes-3party
+4de192b2f03883e1541f9034ccddca46b464388c 0 DOC: link brokenaxes package in third part
+6138aa59a6935ebabb7ec7a12c3a271a99258d84 24 Another super()-ification.
+d99722e9c931fc7063f606b6dcfcf54ba4b67cd9 24 Merge pull request #11666 from ksunden/aarch64_tests
+ac97e14310c0a0d8090e44fbed97335ca90c7ab4 0 Merge pull request #11680 from anntzer/style
+8b46f319caa30173223c49f283c0a6e3db961728 2 Merge pull request #11678 from anntzer/parasite-super
+c66a2a6ebe653f951d8d720a12ccd25616e06ed6 22 Remove some unnecessary calls to list().
+a87445ca84f6d51c8e84a11059d0b621eab3be4a 2 Boring style fixes.
+c85f8217d75fab37db3f72cab2cd3023bb69cea8 2 Merge pull request #11679 from anntzer/drawless
+55de3170b24fb124a4449002655ffcf268ef91a3 0 Merge pull request #11676 from QuLogic/delete-unused-code
+ca8a3d5722dfdc2b0766eb4e00b923a8f2adc610 0 Remove pointless draw() at the end of static examples.
+33545848d410972a2c993cfef4ee0deae5ebdafa 22 Style-clean parasite axes.
+cd500c79ac8303f6a12aef79d2edca1587800468 2 Use super() instead of manually fetching supermethods for parasite axes.
+ebc2d66e4189e555767c45341427ee2f43099137 20 Remove unused code.
+b6326cc47a05ad68b1ae26996b0c30edc984b0af 10 Add fig.add_artist method
+d3db42cf7a3275548929fb078c50373e22766477 2102 refresh the github stats (#11671)
+250c33e83600c1b1bcce5558400139f0f4013765 1695 Merge pull request #11010 from jklymak/enh-add-gridspec-methods
+0712fd98c6b08da6dd7aec165bb4f9e819a70ee7 7 Merge pull request #11672 from anntzer/psfontsmapcomment
+118c8525281f097bea650563963e7d7f5841bb6d 0 Merge pull request #11674 from anntzer/style
+2977f37d46bf5db2756279e6691b517714de3632 7 ENH: Add gridspec method to figure, and subplotspecs
+baef0673cba827f59f7105a199d7a17f51a146b3 7 Boring style fixes.
+8517d370c50c98a24a178a1fcac37a00411fe2f2 2085 Merge pull request #11669 from matplotlib/auto-backport-of-pr-10877-on-v2.2.x
+252f4135799027f9ae887e8fd87e3af906187a22 1680 Let QPaintEvent tell us what region to repaint.
+408235524cd9c3af296523d154c7f0df28fec26a 60 Add comment re: use of lru_cache in PsfontsMap.
+11f9d85fe8d0c75c6558baa37f20675cce2e5999 2085 Fix some more invalid string escapes.
+380a60319aa03efc72c42d9a0602097d55b47dea 0 Use raw strings to avoid invalid escape sequences.
+7f157b58f0e2b810bb10a70b481157232b1b528e 0 Backport PR #10877: Fix invalid escape sequence in docstring.
+f2cad5e6ae39372b8a4379c09e8b46898ec0a838 1663 update doc requirement
+6f301685e9c06d2edede18f18d2b5f3144b4bf6a 14 Space after :
+c9ef9c409f5a2aac754b0d01e777e402f28b171b 0 Increase tolerance for aarch64 tests
+b599d420336fd5e735537fa02a8221924d8735cd 2086 Merge pull request #11662 from meeseeksmachine/auto-backport-of-pr-11660-on-v2.2.2-doc
+edd053d16fce81dc604e4e2b9828e04a71155b3f 1700 Merge pull request #10954 from anntzer/share-dviread-caches
+a5e9643ab0f912ee5287fffc8eaa7776bce6ec73 2097 Backport PR #11660: DOC: tweak reviewer guidelines.
+eee89010fe18cb48f6f4406ac3729678257fec43 1689 Merge pull request #11660 from tacaswell/doc_reviewer
+3466a47c94730f9a1869b345d64b5acacb9d7a05 210 DOC: tweak reviewer guide a bit more
+c5099c691adc7a8f654b4f8f206f441231be20df 203 Merge pull request #9150 from anntzer/rc-blacklist
+677a3b21edf38a28f32bed4c7217a40a3b9da9f3 0 Merge pull request #10936 from anntzer/tkc
+aa7c8b47331e2dae8e4db80d25886e3bcad2d582 0 Merge pull request #11378 from avinashmnit30/gouraud
+e3a80049e5a33a2b4cff0c069433d13f3168372c 2 Merge pull request #11383 from afvincent/fix_scatter_error_color_shape_11373
+05450202e96c17a21dd8ab9412e4a1722af8c7ef 11 Merge pull request #11627 from jklymak/fix-bad-title-CL-interaction
+c0a60b76e6934bf88fb2914ad85c9ee584d887f9 2073 Merge pull request #11659 from meeseeksmachine/auto-backport-of-pr-11658-on-v2.2.2-doc
+668f260d31002c19752c9617da1b7786c6fab991 1488 DOC: tweak reviewer guidelines.
+9867b44bf41fdcd70d108a711a739e6ce4978b8a 1878 Backport PR #11658: Sort named colors example vertically for easier comparison of similar colors
+c1d086fee84c82616021930c07bab6c5f3ebd50a 1675 Merge pull request #11658 from joelostblom/sort-named-colors-vertically
+cc0df1fd54e3234195868408f4b4c72fc7c20e33 0 Adjust formatting to look good outside the jupyter notebook
+de0af533ef5ddada23aeda1ed382a2402eefc65f 0 Shrink figure size
+99b2957bcfbebfc8ebe708e893eab4ba223fc645 0 Sort named colors vertically for easier comparison of similar colors
+6d8c9c185f82817398a7de3356cddf60070c705f 9 FIX: CL avoid fully collapsed axes
+3dac582993f3f32a60f05a54b5d23afd6ec20a5d 317 SVG Backend gouraud_triangle correction
+85b4eb8780417c33208fb018d16886f172bd2827 1742 Merge pull request #11652 from meeseeksmachine/auto-backport-of-pr-11650-on-v2.2.2-doc
+721fc042beecc96360c4d699d8ce744d6cdb1513 1675 Merge pull request #11504 from anntzer/pgi
+c06f29613bcad8d2c1eeecec00f7ec5e10b8f0aa 2072 Backport PR #11650: Add CircleCI cache of user fonts.
+7935efcd22a5c47ba0e2cb32856d7c3482401b68 1675 Merge pull request #11650 from QuLogic/font-cache
+8130ea9a10646aa71d589dfbfe5687f764640a45 0 Merge pull request #11640 from timhoffm/fix-ax-bar-color-none-alpha
+2486f8985d5cf0a28c12ed30fa7489b248e82222 0 Merge pull request #11443 from fredrik-1/kwdoc_bug
+5669d1ce0aa7a9ad82d690a7029dbb22c0a29089 6 Merge pull request #11626 from timhoffm/doc-minor-issues
+ad69e899e6c6fd50d711ebc547479409c0220c8b 0 Merge pull request #11619 from jklymak/doc-rearrange-gridspec-examples
+a60c37c65013fd5acf955dbd8f0951d0061d56b0 2 Merge pull request #11631 from jklymak/doc-better-tl-error
+66d22828518379265bf03e391f2e58a4e6e6acb4 0 Merge pull request #11651 from QuLogic/example-imports
+ec18ea9592fbaae855efe491ed88d680be3f5ee1 6 BUG: remove broken shading in plot_surface
+9e73e2591ad90498d51ffb74688488eb6aaa0c5b 4 DOC: Add documentation for lightsource parameter
+bed25a85abca08031f642a844a85c7ca3d7b39df 2 Annotate reason for Axes3D import in examples.
+f04a33ae1a2b0518dcbc66d199b0cce1fda9446d 0 Remove unused imports from examples.
+cb127ba8ff82e069099832d2835f188bd4b7be01 0 Merge pull request #11633 from dstansby/api-clean
+a64aa6b226d7567b17db0bfc69a4abaaf9af9bcd 0 Add CircleCI cache of user fonts.
+dd521232b83b6625c55ce7c13f8883b8fb5a4c63 28 Fix barplot color if none and alpha is set
+a605cd69ae63df2850eb17322e79628eb35d9f31 28 Remove duplicated item
+ed4fe750e5766b77406afd48ca48996e644f9f93 0 Clean up next api_changes
+b52a284bc36e5b74ace6eae453967860d23d38ea 0 Merge pull request #11643 from anntzer/deprecationmessages
+6968f5886d0bb44c9ea45d3b6e0027874c358de7 2064 Merge pull request #11646 from meeseeksmachine/auto-backport-of-pr-11642-on-v2.2.2-doc
+d45f9d43cd1510c2df6e7c7f0a016f5be9a8556b 1666 Add note
+42ed60de9ec87576836c4006fee1de143f63445c 0 Small fixes
+47acec49be2fd455b610201b2b919dad917b1fca 0 Split API changes into individual pages
+caf1dcf19e3c22e223616542aa0d585de23265a3 2064 Backport PR #11642: Fix gitter badge; remove depsy badge.
+8c99daf90379e22912731000b01c12bc70e9790f 1666 Merge pull request #11642 from anntzer/badges
+30d764b6f444a7fadaed5226e6a05222e4abb4cd 0 Don't update style-blacklisted rcparams in rc_* functions.
+b97cd2d0a722cff302749375e9e07b16a9429424 0 Fix deprecation messages.
+8408b0eac3e90302f581f098951e52cae55f6a06 0 Fix gitter badge; remove depsy badge.
+833543dc97746dc03d633105419e133bd9141069 2 BUG: Respect the lightsource argument in plot_surface and plot_trisurf
+f4b5618f0670c340fd3b6245f5014f49d83dffc4 2 Merge pull request #9223 from dstansby/hexbin-log
+d2ec53b4ef9635056d943576239466e41b90c246 28 Minor docstring fixes
+3031da056f6221275918ec2639a6a4c2b37ccbb7 28 TST: add a test for tight_layout warning
+18d0f9ad4d8c5af45af6c88e077898eb4850d7a8 0 DOC: better tight_layout error handling
+711bb3ff0b8bef1f78c1e535a4eaaf69eba5dd9c 2052 Merge pull request #11638 from meeseeksmachine/auto-backport-of-pr-11636-on-v2.2.x
+bd4649c70fdc359d07e7964b6134728df7d82bbc 0 Merge pull request #11634 from WeatherGod/backport_11624
+ac671610c0f520e65b026a72ad6984c72393710f 0 Backport PR #11636: Don't flush file object opened for reading
+c2737834be132329404f7fd7e7a1a59be85f4430 1654 Merge pull request #11636 from gson1703/fix-11635
+61dd35a0286b28549c4143c681b145a08b56956e 0 Fix bug #11635: Do not call the flush method on a file object opened for reading, because it returns an error on BSD systems, with the end result that "import matplotlib.pyplot" fails with the error message "TypeError: First argument must be a path or file object reading bytes".
+08e6c6cfa4668beb4b8422c30335df8b4f4d31d6 2052 Merge pull request #11624 from QuLogic/unsafe-popen
+265eb1c7dbf40ea2351d4306c3d8b46e8b106f5a 1654 Set norm to log if bins=='log' in hexbin
+19d5fbc9037e8c17dc21c7d94d054191cd2da3c1 0 Merge pull request #11622 from tacaswell/fix_qt4_exceptions
+74c2e7c6a27c750e0b42708a1a23fc709dac8eac 10 Deprecate ticker.Base.
+2b40260d9b4ca7442bfb29c0f02a083577d18807 0 BUG: replace buggy ticker.Base with _Edge_integer.
+b3e900d9f47f1f218dbdfe0e0bacce7410a386b9 10 Merge pull request #11624 from QuLogic/unsafe-popen
+aab834cb608a48f24c1eccdaf5a994f8fa95d8cb 3 DOC: modify tight_layout and add constrained_lyaout demo
+e9cdfc0070320843f26ec1b03e9ac494b39f4a46 13 fix naming of 'c' and drop the adjective 'named'
+607b4d6f39587f353795f7805b1db7d7f4f5ded1 6 add an explicit test about the 'c' kwarg for scatter
+b68cc513c16189d415e6d50a34d15ed66d253a3a 3 factor existing scatter tests into a class
+c77ee585e893e36618606230524cf0c5a2f09f85 8 fix an issue when *c* == 'none'
+b1cd0a3d57d849d4c54f85d75f86e13de3efedd9 0 improve c kwarg checking (and error messages) in scatter
+dfb8936a5a8af404cf97991eb69fb1bea85e0738 0 Merge pull request #11616 from QuLogic/doctest-fixes
+5d3bb7820c600e51cd8c54870373e8eb7be9efd3 188 FIX: be forgiving about the event for enterEvent not having a pos
+90203f5929b6e6ba07281b00f9d4c6a8ce3c2c49 180 Don't use Popen(..., shell=True).
+a9c5a011ce017121bf28616e17d85c7314ee6dcc 2064 Merge pull request #11618 from matplotlib/auto-backport-of-pr-11562-on-v2.2.2-doc
+c7d7a914ef0d7ed9e77cddc291d0ed28117ca09d 1666 Fix an undefined variable in doctest.
+ab58befdb731bc281c8165d5ad3a7999c71de208 0 Cleanup some doctest wrapping.
+0f9e5f98e4395a1f0be66aeddb941e4322b85a44 0 Fix incorrect doctest syntax.
+aa58a366962a1bc2629a9ef10d715eb4b7c463aa 2 DOC: move a couple of GridSpec examples into subplots gallery
+1adca038745f107f21bd43026823bc71636f63f5 2066 Backport PR #11562: Deactivate smartquotes
+e8120cf6d02169c354cfb969163c56d7100fc433 1666 Merge pull request #11562 from timhoffm/deactivate-smartquotes
+054461604247c3efa2fd20076b35bd24dffb7fe6 0 Merge pull request #10872 from timhoffm/arg-replacer
+790a070aeb86ab52e2a497060711d06a6527d226 2 Merge pull request #11617 from dstansby/whats-new-clean
+5c455cff10845381856f1fb8d0989e1eaa9f2a28 0 Clean up what's new
+efc504b89a292df29c6ef7bcd42d5d792241b947 0 Merge pull request #11610 from jklymak/fix-extend-low-powernorm
+553a3956b2c98f68659471f98d8222da5891305e 0 Merge pull request #11615 from tacaswell/revert_glyph_warnings
+5257c4f2326286dfa5bfa244613c9d31c8cf0b99 6 Require calling a _BoundMethodProxy to get the underlying callable.
+63d446f0c9f9dbe95d64d0cf406fa0842ef449e6 6 Merge pull request #11614 from tacaswell/tst_remove_tox
+b4249915f84a9e4ef754bc33cd120ec1a93d4b99 0 Merge pull request #11603 from tacaswell/doc_merge_up
+ffc22bf817b3775b6f297f3d067af79d3ccb81bd 0 DOC: merge up the api changes
+52d48c96c38eb4b0fe233bbee7f4c0b26e55a11c 0 DOC: copy whats_new entries up to top level file
+06259883ca40e263b9acd3e99220d3384aa043a6 0 DOC: comment out the auto-include next whats new
+158bd2c24b839bf05d885b7b0631c7c25dc1f1bc 0 DOC: move 2.2 whats new to it's own file
+734c19448d75d03ddf9ac7ee4dae0574cf13f180 0 Merge pull request #11613 from QuLogic/flake8-explicit
+8256c25c3623f3d50dd11d9d7cca35c27c40ad8a 0 Revert "Merge pull request #9175 from anntzer/warn-on-freetype-missing-glyphs"
+db26adf43bf7293d1ced8a220b252d3ffb34ac22 0 Revert "Merge pull request #11605 from anntzer/spurious-ft2font-missing-glyph-warning"
+695e729f6e4673bc3c2ef9ab79530aea0f25ad14 0 CI: don't run tox to test pytz
+e3042ab896ff59b559f13a55a7c08b8ce616b120 0 Merge pull request #11611 from timhoffm/fix-doc-css
+0c01f06543e07731480df17455fc893ad49f14c2 0 Make flake8 examples/ exceptions explicit.
+c548e87a09675b798c8d596de44925676024fe20 0 Make flake8 tutorials/ exceptions explicit.
+866e183d686a919b1bddcbffbb2178a01613930b 0 Make flake8 doc/ exceptions explicit.
+4e8e9957582095187ec073e43fc8247764eeb7ba 0 Remove superfluous flake8 exception.
+092e4da943d736d5db1dd7a009fd26cde0225495 95 TST: fix flake8 error
+1eccdbeb13c8d509e0adbb62f5b53b597929683a 0 FIX: let extends work for PowerNorm
+2887c499a517038c132f23942c628d841cce2433 95 Merge pull request #10001 from eric-wieser/more-normals
+6ceac0d65cdbdf99932dc63c9cb26513426369c0 1 Merge pull request #10234 from aparamon/PowerNorm-offset-fix
+aae1b6e14ea0b37479390c78fdba3438b454a250 179 Deactivate smartquotes
+85f0dd66a524f6d21e28482c1634dccff9f0d31d 171 Merge pull request #11398 from anntzer/gethome
+632305e14798b384b4ddeeb37f389b64acfe27e4 8 Merge pull request #10682 from jklymak/enh-ax-get-tightbbox
+c4aebac9e2579faa24db542e8f7a688131067fc1 14 Merge pull request #11590 from anntzer/parentlesswxtimers
+60e318049010fb22f2c5e2dedc3fd08b9d886d06 1 Merge pull request #10245 from anntzer/fontmanager-relpath
+18b95257b669f75082f131835679c1a3643ddb4a 2 Fix css for parameter types
+6c1105b2339a118edb97a54ccf778912f1655456 0 Merge pull request #11381 from anntzer/text.latex.unicode
+b18d16c13209a860f77a7dbad001cf472257cbb3 14 ENH have ax.get_tightbbox have a bbox around all artists
+27493dc11912bb98746de54816f65dbd1e88e6d7 14 Merge pull request #11601 from jklymak/fix-dont-mutate
+78d8a75ed7f364726b49365749bc2aff05beb390 0 Merge pull request #11609 from anntzer/killosxnavtoolbar
+550dad46ccd2318430ef8df0f6051213cce8cf0c 0 Merge pull request #11608 from anntzer/wxphoenix
+8ef7b499540382fe13973483ff2a1f5a682971a9 69 TST: Add test to make sure kwargs dicts aren't mutated by subplots
+d8a08bc930795582506f73ed4a6650703e9ad1de 69 Remove _macosx.NavigationToolbar.
+d5698c95ce4fc72415d6747683aa25c64ac11b6c 0 Remove some conditional branches in examples for wx<4.
+ff059c08bf7bef28cbac8f8c07827f5d289dcda7 0 Merge pull request #11604 from QuLogic/rm-temp-files
+7684f0f5f42c1d1e3c4d1f9d79f98581f7cdb683 2 Merge pull request #11605 from anntzer/spurious-ft2font-missing-glyph-warning
+3ba2e6d5935ece346b12f2e82db70de4b528b101 0 Suppress a spurious missing-glyph warning with ft2font.
+9f821d1d37e7a35038fd7b6a564c63d095fc9399 2 Include cache version in fontlist cache filename.
+e732310caa659b20d8b160f294196aee341cf851 0 Cache paths of fonts shipped with mpl relative to the mpl data path.
+f8758ebb346fd653b969b2375705ada525c11c09 84 TST: Place animation files in a temp dir.
+9324b27097811d467b857f9a6ac94e02457608e5 82 Merge pull request #11360 from pganssle/pytzectomy
+9555535ee175c66f0a0e9fdaefd9443f63c6e74a 27 Merge pull request #10885 from anntzer/setupext-gtk3
+ec14df951bfc485d978a23728abc76323f2e8095 2 Merge pull request #11081 from DietmarSchwertberger/wx-help-tool
+99cb3dd7817c3b3be8a0090583f13930b05dbbe6 13 Merge pull request #10851 from DietmarSchwertberger/wxtoolmanager
+12090375dbb1cbee14ebb28cab1629eb6da25e94 25 Merge pull request #11247 from timhoffm/cleanup-mplDeprecation
+590ee8e133903accb519c2618c05bd93f39a4557 40 TST: exclude tox files from flake8 checking
+764fbe571f6333ca43e120dd290929b17741db4f 40 FIX: subplots don't mutate kwargs passed by user.
+3d19f94284e15d4d1c4c1d736cf646d18856960a 0 Merge pull request #9426 from anntzer/shadow-transform
+c8a48b8f8e376beb757373e97d1e5406e4730177 5 Merge pull request #9175 from anntzer/warn-on-freetype-missing-glyphs
+40cfdae8c4475aac55148c194207ad4997d6a357 0 Merge pull request #11412 from efiring/contour_colors
+05c9a126733062d4b903dbf74ca9b08d1933bea7 1952 Merge pull request #11599 from matplotlib/auto-backport-of-pr-11559-on-v2.2.x
+9a147a45287e6c2f0aa191418b3a02c0e195dd64 1510 Suppress some more rc deprecation warnings.
+99db86c832238df65813b4e963e646805d11336c 0 Deprecate text.latex.unicode.
+4270fd09e3376322eb36e12fea8331e0d0df1b63 1 Don't associate Wx timers with the parent frame.
+3abe21872cf528c3623d342a5ea8f398e9b5ad5b 45 ENH: improve contourf color autoscaling
+7340ceb82e3c83746b596366a81dfecece2ceb05 1952 Backport PR #11559: FIX: Toolbar disappears in TkAgg if window if resized
+07fdbe828000514e81081e2ff9d2c664922afe02 1573 TST: skip sphinx tests if no sphinx installed
+ab92163d6a8077bc22951562886099cf0e48469c 0 CI: only install sphinx on py35 build
+1364784212db062c67864b8ca0bd149bf13c2912 0 CI: Add separate test environment for pytz
+f8e76bff09131b1f1f327efb6f2f89b0d59a2e92 0 DOC: Add API changes entry for pytz removal
+75c5c48b5d8195fd38285e06a693719c63e6460c 0 DOC: Remove pytz from documentation
+23b41b15f6eb659b4b550baf96eb9aa65a57dda4 0 Remove pytz from build dependencies
+d6339b5eee3b9be9367358dc256633aaee07f185 0 TST: Remove pytz as hard dependency in tests
+eec4a5ab9e533947316bb7ed4158af16ac4df5b9 21 Remove pytz from dates.py
+5129b0b836fe1e7fd38047f540f54f85046ade14 6 Remove pytz dependency from axis.py
+94f41d1f7ed5239be46b665567a9c54b501fc089 0 Merge pull request #11477 from QuLogic/flake8
+cf526b13dee1d6d9c10f994b6423901cfbf9668d 1944 Merge pull request #11598 from matplotlib/auto-backport-of-pr-10915-on-v2.2.x
+f7486e7350d8be81f012a3b21d77d2435ba52937 1510 Fix figure window icon (#11165)
+6123369893c53b984d378a63f99f4458ec63294b 36 TST: Run flake8 outside of pytest.
+6fe8965c00316fa841b396e655387f5e71c35682 1944 Backport PR #10915: FIX: tight_layout having negative width axes
+d09bfdff6fc71c302ca6e3317cb1dd2ca29ca375 1546 STY: Fix N813 camelcase imported as lowercase.
+99a6b8ac7d1c9ffd38fd255c17860281a0c5e1c0 0 STY: Use consistent (class)method parameter names.
+34d8eb2adc8dec8cb7542c24a587e567921df5e7 36 Use raw strings to avoid invalid escape sequences.
+cdcb282521a26fafc2565285f997365b242d3b80 0 STY: Fix some whitespace issues.
+5e859f80892efe78cf3b6e93e3cfd193d5d6d913 0 Fix undefined names.
+cac3be2c2374a31c613d6a8e9a42dfb4b83615c3 0 Run flake8 instead of pep8 on Python 3.6
+5211ed855a65f0426d71eebe6f243f7f5f8a80a2 0 Merge pull request #11584 from pharshalp/fix-colorbar-minor-ticks
+21b102ec476737447ed7bfb88c0d0e1b9b03745e 10 Merge pull request #11438 from jklymak/enh-get-gridspec
+c351e78ab78ef55f3135a03b70e6627cbf4608ca 1 Merge pull request #11451 from timhoffm/pyplot-summary
+35083bdde5215710145ebeaee65045727d643d56 0 Merge pull request #11579 from jklymak/doc-examples-use-constrainedlayout
+a62314902e20a983afe1a40529c125ee2a2e55dd 0 Merge pull request #11588 from jklymak/doc-warn-if-CL-plus-TL
+ae6eaf03575ea42d815a37af14f25821d2420e62 10 Added _ColorbarAutoMinorLocator and minorticks_on/off
+4fc9288da256b2d7763ecb582199a9ce171657aa 10 Merge pull request #11594 from anntzer/docstringscleanups
+c5d604b28d0db20a2b4e21392a51f21dc28db85e 0 Merge pull request #11593 from anntzer/skiposxwx
+63671b409f61e279b7f2a0918b53b4c3465a1242 0 Some more docstring cleanups.
+486ce4023443b0387524bede25f1a4d0c42e0fd9 0 Skip wx interactive tests on OSX.
+258ad317cf11e7fec4f851d5790b367814e419d9 0 Merge pull request #11592 from anntzer/spacesindocstrings
+3186b633c004a4e485dd0d15dbc78f9039db3161 2 Remove some extra spaces in docstrings/comments.
+618588dcf98a32cc2c8e3d9e766b416ca8f3c9ac 0 DOC: change some examples to use constrained_layout=True
+50fad1a2e3975c5b70b831141accf0da429e42ee 2 DOC: warn if user is using constrained layout and tries to use subplots_adjust
+5dc51e0056350811dbc385833368a5e87f1baa43 0 Merge pull request #11585 from timhoffm/doc-triangulation
+b30632f3870682f1a31875b634da9662165e1586 0 Some doc cleanup of Triangulation
+90e30e45b6560ac6e834fcb56eb2e425b91a83b3 0 Merge pull request #11580 from timhoffm/subplots
+365d54c7eadcad1d9ff065299f75da7ca5f80d28 2 Use plt.subplots()
+184a408fb45fdd02991ed517aa179113e3ade2b4 2 Merge pull request #10474 from anntzer/tempdir
+33a2624d79665079026a726c6489b99b18c37902 0 Also use TemporaryDirectory instead of mkstemp in backend_ps.
+c59f1b7666ebfb9abe153075305115901a19e93c 2 Bump pgi requirement to 0.0.11.2.
+f434d6d3fd62abac5a74a52b018ceb006896b261 2 Use TemporaryDirectory instead of mkdtemp in a few places.
+aae55fc22fb6374ff903dd2435aad3754f7d9c65 2 Merge pull request #11240 from anntzer/deprecate-examples-directory
+300e4c9afbc9dc00800f36184814634694171e3f 0 Merge pull request #11370 from jdollichon/issue-#11369
+17df3979a07a56af441c0445ff619e48115dc07d 0 Merge pull request #11576 from dstansby/compare-doc
+34c59dd29265d209d0509cc61317d188db750455 61 Add parameter doc to save_diff_image
+5448787240a5cea0688dcf0a59c14a1b6ddd5862 53 Merge pull request #11573 from anntzer/killsetupexternalcompile
+5b1a05217f6da2611414f4dfc4e298c18f313258 1895 Merge pull request #11574 from matplotlib/auto-backport-of-pr-11565-on-v2.2.x
+de8517771e8b64449e8215b2a07c5d675bc3a5f4 16 Merge pull request #11474 from matplotlib/auto-backport-of-pr-11442-on-v2.2.2-doc
+f2f84833855fa38650d92ec050e5a2f1b40dacd1 16 Backport PR #11565: Update docstring of pyplot.matshow()
+7e8acec95e1098588cc3b33502cf5b846f66c0a5 1504 Merge pull request #11571 from anntzer/stixfonts
+a11475a4f34a89199fc5e1861b655d1bd583c1dc 0 Merge pull request #11565 from timhoffm/doc-pyplot-matshow
+38fd2ea8fccd59a5a5e749c382fef3d7241cca09 0 Merge pull request #11563 from timhoffm/doc-pyplot-close
+b71fd6ad032539000401ce59648979c8487280dc 2 Inline setup_external_compile into setupext.
+d80c9fb02fdf9a42255f97141a9bae23bb724a5e 1 Merge pull request #9801 from jklymak/fixdateticklocator
+740ec166081dbb4d3cf9b971eb167fe45e706302 148 DOC: add tutorial and example
+03378833c6f65e6dcb4928812f5cbe379c84c7a0 124 FIX: Change default Autodatelocator *interval_multiples*
+7544c46349bf7d157b09aebcaa0f8f88a62478fe 20 Merge pull request #11570 from anntzer/morefreetypewindows
+7b066c60bbe249bc734449bc3b6a259bc68ee879 7 Merge pull request #11401 from anntzer/py3
+40b51d5c466f84285e9136f252eff4257e67dad3 0 Merge pull request #11566 from anntzer/morecleanups
+d762d6ded206e56eb1c15d34bc2299b549828716 0 Merge pull request #11520 from anntzer/getcurrenteventloop
+d9d7ff182618be61d369b95016337912d97cd0af 0 Merge pull request #11544 from anntzer/pickleshared2
+3bf263b71588e42661edd991185f20e045a2ee55 0 Merge pull request #11568 from fredrik-1/figure.text
+64ee57416c2aa85a83ae6dddaf8adba0def6e913 10 Cleanup stix_fonts_demo example.
+a1a04fa14b9de4f0093d489b0e4429af915167de 7 More simplifications to FreeType setup on Windows.
+2afeec76e7ba88a879c5319b61c3ce97f2f7eeb6 7 Merge pull request #11248 from anntzer/freetype-windows
+63f53e391a6365f91cf56438ed4292159418669f 0 Deprecate the examples.directory rcParam.
+b1cde413ad8f22f1bc37414d952ed9ce9a90cb4d 0 Cleanups.
+7f4a8d41f93076e5a4c9a3d8d3ac6ae2d8787796 1887 Merge pull request #11536 from matplotlib/auto-backport-of-pr-11532-on-v2.2.2-doc
+145f35ef8b3031342ca80bf3c02e1750e51b4a17 1497 Merge pull request #11556 from jklymak/fix-colorbar-bad-ticks
+39824ace35b0fa81fda9833381468152be14f696 0 Merge pull request #11559 from 816-8055/patch-1
+eaf94d20ba0708e98a534433c9db805266f795fa 0 Merge pull request #11494 from anntzer/wxpy
+ed56906f9c0e924a66ee69724253953f18c1834f 13 Figure.text changes
+a62ceadb65c3dee972e2829dc7a4d0505f6c1343 13 Merge pull request #11564 from anntzer/cleantri
+6c37203d4de8d6f6d59b1a28899d363257d0566f 952 Update _backend_tk.py
+d5dae3c7c528ded2e11d578f7a388dcaa953575d 953 FIX: make sure colorbars don't have bad major ticks over the extend limits
+dc6db478c2b813e0b03272af8c6eec37705f5e6e 1872 Merge pull request #11567 from matplotlib/auto-backport-of-pr-11500-on-v2.2.x
+4100e90900eecb8f002d4b868f762039fab2acfc 1482 Merge pull request #11548 from timhoffm/numpydoc-parameter-choices
+f6bdcb5fe60fabe8fa2093981383b5e23a109fce 2 Update pyplot.close docstring
+6802e8822a35fb2061cbf04162818d201bda7e85 1874 Backport PR #11500: Fix shims with PyQt5 5.11
+578af6bee340077515d47e289b29dfeff4501f9f 1482 Update docstring of pyplot.matshow()
+1039c7147c5f56544f90f2ccf6b1e5787ae66648 3 triinterpolate cleanups.
+2fc375b2898d8422085e465fa9a18a66dea1d8c8 3 Merge pull request #11500 from QuLogic/qt5.11
+9df44baff72be22eca0f7a8238000e8dd60ca5ee 1886 Merge pull request #11466 from matplotlib/auto-backport-of-pr-11462-on-v2.2.2-doc
+d0b5f949dbb4bd52820def68951d77643d0cac1d 2 Fix PEP8 error...
+10c04ca1701f6513ce3d2a417f95ec68f6c57a30 1494 Use numpydoc-style parameter lists for choices
+5d7efff905ee5944bad932ce419ae9075577cce2 1886 Fix PEP8 error
+609d7d17fc091c56c12dfe774265bf102af3a46c 0 Merge pull request #11561 from matplotlib/auto-backport-of-pr-11549-on-v2.2.2-doc
+4606c7b74a536d73b53977be86db064d5941dfe9 0 Backport PR #11549: Some docstring cleanup in ticker
+9fc98c9de2dbdd674c56084004e2a45b9e6f7cfc 1496 Merge pull request #11549 from timhoffm/doc-ticker
+50b1abfff05ad58cf9786b34856d637600beaf4e 0 Merge pull request #11547 from timhoffm/example-links
+256aa60a99a39580e7edd2e290b9a17c20b76f90 0 Merge pull request #11555 from daronjp/spellcheck
+4d7f8ce62f53f522fef5cb786de6cc049bd0b6c7 0 Merge pull request #11404 from jklymak/fix-inf-text
+f256b7958c1c58814be924d4b307e7a1cf91ac2a 0 Merge pull request #11455 from pmackenz/master
+ba268c7f5183a7a51d6755af49419aa4dfd2b7e2 0 Fix spelling in title
+bdde7e00717be58a29db39bc8be4f4e66fe6178c 6 Some docstring cleanup in ticker
+36962615c7a8bf7172081de44e38653c4ada8fc2 6 Merge pull request #11060 from ImportanceOfBeingErnest/fix-inset_axes
+857354469ac30d35303b26dfde32c16d248c32f9 12 changed paths in kwdocs
+a1419ccfdc9ec3a147a81ee7f703f2a16ccefa74 6 Remove mplDeprecation which is just an alias to MatplotlibDeprecationWarning
+0f05cf47c5f23729bc82bca25de30f39c57658fd 0 Merge pull request #11297 from anntzer/warn_deprecated
+a009ffdcdb83c8b422f90452452c17c833e6fe32 7 Fix example links
+ac7e8309aa3dc9573229b2d95f88338a1b1a6ef0 0 Cleanup Matplotlib API docs
+b100c00f5224ee76f4af99dd654cc1f795363490 7 Prefer warn_deprecated instead of warnings.warn.
+df2c7a9740ce964412632c4a0094902cc41cb25a 7 Merge pull request #11495 from timhoffm/documenting-mpl
+dd6173d5b38531afddae414b5d04b0ac107c746f 0 Merge pull request #11545 from ImportanceOfBeingErnest/doc_markersupdate_fix
+1eed932a8e92945c626c31538f9553c985ed054b 0 Doc fix x(filled) marker image
+859a412be0034297550530ff4f6dbdf72a2ca2ef 0 Restore axes sharedness when unpickling.
+cb58589806ca5a6f73d0ee3d5eb9e9ee354ae757 32 Cache various dviread constructs globally.
+ead2ff897461752914ad2e403635027b5c27db29 32 Merge pull request #11287 from anntzer/mouseoverset
+aaff40014b474d58eb3ef97f3f0dbe664fa05d69 0 Maintain artist addition order in Axes.mouseover_set.
+06fd4137a7fe77cf65f344879bb052fc18a6012c 13 Merge pull request #11530 from TarasKuzyo/int-loc-event
+a53a04cda6112703b0cd5a1add89a3368df87b0d 0 Merge pull request #10336 from anntzer/instancechecks
+51f6ef8f897b7041ffa49e3746a240e869a5e20f 0 Merge pull request #10298 from anntzer/gtk3-background
+766f03a73aa9988f895d7f341d1fbe343160b626 0 Merge pull request #10297 from anntzer/gtk3agg-alpha
+4b316b984872b61f54aed26607df0d9d96326e9e 0 Merge pull request #9094 from anntzer/axisbelow-zorder

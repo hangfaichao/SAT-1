@@ -1,0 +1,100 @@
+21 1801 Merge pull request #11824 from fredrik-1/facecolor_stale
+
+25 1801 Merge pull request #11826 from NelleV/gridspec_doc
+
+29 1801 Small edit to take into account height as well
+
+31 1801 DOC Better description of left, right, top, bottom
+
+62 1809 MNT: remove extraneous 10
+
+76 1812 DOC removed all mentions of tests.py
+
+80 1815 Merge pull request #11734 from anntzer/aggcleanup
+
+462 1872 Merge pull request #11567 from matplotlib/auto-backport-of-pr-11500-on-v2.2.x
+
+465 1874 Backport PR #11500: Fix shims with PyQt5 5.11
+
+257 1878 Backport PR #11658: Sort named colors example vertically for easier comparison of similar colors
+
+469 1886 Merge pull request #11466 from matplotlib/auto-backport-of-pr-11462-on-v2.2.2-doc
+
+472 1886 Fix PEP8 error
+
+454 1887 Merge pull request #11536 from matplotlib/auto-backport-of-pr-11532-on-v2.2.2-doc
+
+433 1895 Merge pull request #11574 from matplotlib/auto-backport-of-pr-11565-on-v2.2.x
+
+396 1944 Merge pull request #11598 from matplotlib/auto-backport-of-pr-10915-on-v2.2.x
+
+399 1944 Backport PR #10915: FIX: tight_layout having negative width axes
+
+380 1952 Merge pull request #11599 from matplotlib/auto-backport-of-pr-11559-on-v2.2.x
+
+385 1952 Backport PR #11559: FIX: Toolbar disappears in TkAgg if window if resized
+
+298 2052 Merge pull request #11638 from meeseeksmachine/auto-backport-of-pr-11636-on-v2.2.x
+
+303 2052 Merge pull request #11624 from QuLogic/unsafe-popen
+
+284 2064 Merge pull request #11646 from meeseeksmachine/auto-backport-of-pr-11642-on-v2.2.2-doc
+
+288 2064 Backport PR #11642: Fix gitter badge; remove depsy badge.
+
+318 2064 Merge pull request #11618 from matplotlib/auto-backport-of-pr-11562-on-v2.2.2-doc
+
+323 2066 Backport PR #11562: Deactivate smartquotes
+
+266 2072 Backport PR #11650: Add CircleCI cache of user fonts.
+
+255 2073 Merge pull request #11659 from meeseeksmachine/auto-backport-of-pr-11658-on-v2.2.2-doc
+
+236 2085 Merge pull request #11669 from matplotlib/auto-backport-of-pr-10877-on-v2.2.x
+
+239 2085 Fix some more invalid string escapes.
+
+245 2086 Merge pull request #11662 from meeseeksmachine/auto-backport-of-pr-11660-on-v2.2.2-doc
+
+247 2097 Backport PR #11660: DOC: tweak reviewer guidelines.
+
+230 2102 refresh the github stats (#11671)
+
+185 2114 Merge remote-tracking branch 'matplotlib/v2.2.2-doc' into v2.2.x
+
+187 2116 Merge pull request #11697 from meeseeksmachine/auto-backport-of-pr-11694-on-v2.2.x
+
+212 2128 Merge pull request #11686 from meeseeksmachine/auto-backport-of-pr-11685-on-v2.2.2-doc
+
+214 2128 Backport PR #11685: DOC: link brokenaxes package in third part
+
+175 2154 Merge pull request #11707 from meeseeksmachine/auto-backport-of-pr-11677-on-v2.2.2-doc
+
+201 2172 Backport PR #11694: moving toolmanager initialization up before toolbar
+
+24 2196 Merge pull request #11827 from tacaswell/fix_minor_c_change
+
+40 2196 TST: tweak an svg file
+
+43 2196 Merge pull request #11533 from tacaswell/update_for_py37
+
+52 2196 Merge pull request #11813 from tacaswell/backport_axes_grid_work
+
+54 2196 Merge pull request #11060 from ImportanceOfBeingErnest/fix-inset_axes
+
+18 2198 Merge pull request #11834 from meeseeksmachine/auto-backport-of-pr-11824-on-v2.2.x
+
+20 2198 Backport PR #11824: facecolor stale missing
+
+30 2198 DOC: put py27 back into the docs
+
+56 2202 Merge pull request #10756 from AlexCav/iss-8120-bugfix
+
+63 2206 Merge pull request #11812 from tacaswell/final_backports
+
+77 2209 Merge pull request #11811 from jklymak/backport-cl-overflow
+
+12 2216 MNT: bump away from tag
+
+27 2216 Merge pull request #11817 from tacaswell/backport_py37_updates
+
